@@ -9,6 +9,7 @@ A collection of Java projects built while learning core Java, OOPs, logic buildi
 | No. | Project | 
 |-----|----------|
 | 1 | Number Guessing Game | 
+|2  | Calculator |
 
 ---
 
