@@ -43,7 +43,7 @@ public class Calculator {
         System.out.println("2. Subtract");
         System.out.println("3. Multiply");
         System.out.println("4. Divide");
-        System.out.println("5. 5. Modulus");
+        System.out.println("5. Modulus");
         System.out.println("6. History");
         System.out.println("0. Exit");
     }
@@ -78,6 +78,7 @@ public class Calculator {
                 System.out.println("Answer = " + (a % b));
                 history.add(a + " % "+ b+" = " +(a % b)  );
             }
+
         }
 
     }

@@ -10,6 +10,7 @@ A collection of Java projects built while learning core Java, OOPs, logic buildi
 |-----|----------|
 | 1 | Number Guessing Game | 
 |2  | Calculator |
+|3  | Table Generator |
 
 ---
 
