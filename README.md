@@ -8,10 +8,11 @@ A collection of Java projects built while learning core Java, OOPs, logic buildi
 
 | No. | Project | 
 |-----|----------|
-| 1 | Number Guessing Game | 
-|2  | Calculator |
-|3  | Table Generator |
-
+| 1   | Number Guessing Game | 
+| 2   | Calculator |
+| 3   | Table Generator |
+| 4   | Prime Checker |
+ 
 ---
 
 # 🛠 Tech Stack
